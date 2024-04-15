@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikolozDvalishvili21
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML/CSS, JS, Python, PHP, R
+- 🌱 I’m currently learning HTML/CSS, JS, Python, PHP, React
 - 💞️ I’m looking to collaborate on Beginner Projects
 - 📫 How to reach me nikadvalishvili517@gmail.com
 
