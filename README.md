@@ -19,7 +19,7 @@
 ---
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/nikolozdvalishvili21">
+  <a href="https://www.linkedin.com/in/nikolozdvalishvili21](https://www.linkedin.com/in/nikoloz-dvalishvili-864171293/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
