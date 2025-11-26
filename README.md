@@ -38,6 +38,7 @@
 - 🎸 **NeonFret** – Guitar learning platform (React + Vite + Node.js)
 - 🎨 **Portfolio Website** – Designed & built fully responsive portfolio
 - 👕 **T-Shirt Print Website** – Designed & built personal project with Angular
+- 🖼️ **Wallpaper Generator Website** – Built personal project with React and UnsplashAPI
 
 ---
 
